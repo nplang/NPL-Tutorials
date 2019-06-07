@@ -53,6 +53,18 @@ python bm_tests/corp_net/testPkt.py
 
 ````
 
+The above testPkt.py sends the following packets to port-0 of the Behavioral Model
+````
+
+Once you build and run of Data Types and Constructs, send the following packets to port-0 of BehaviorModel:
+Double-tagged packet [OUTER:TPID(0x88A8),VLAN-10], [INNER: TPID(0x8100), VLAN-20].
+Single-outer-tagged packet [OUTER:TPID(0x88A8),VLAN-10].
+Single-inner-tagged packet [INNER:TPID(0x8100),VLAN-20].
+Untagged packet.
+IP packet with options.
+
+````
+
 On the BMODEL window you will see prints that display parsed packets from NPL prgram. 
 
 ## Next Tutorial 
