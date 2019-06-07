@@ -56,7 +56,7 @@ Ingress Packet : Send double tagged packet from port-0
 Egress Packet : Received packet is single inner tagged, tpid is 0x9100
 
 ````
-On the BMODEL window you will see prints that display ingress and egress packets based on editor function changes in  NPL prgram.
+On the BMODEL window you will see prints that display ingress and egress packets based on editor function changes in  NPL program.
 
 ## Next Tutorial 
 
