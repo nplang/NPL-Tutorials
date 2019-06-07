@@ -7,7 +7,7 @@ To help you better understand NPL language and its powerful constructs we have d
 
 ### [NPL Titbits](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits)
    These are simple and comprehensive examples to understand constructs in NPL language.
-### [Basic Switch Forwarding](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Basic-Switch-Forwarding) 
+### [Basic Switch Forwarding](https://github.com/nplang/NPL-Example-Applications) 
    These are switch forwarding examples to make you experience a very simple Layer2 and Layer3 flows.
    
 ### How to get a Working Environment
