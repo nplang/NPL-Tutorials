@@ -39,7 +39,7 @@ python bm_tests/corp_net/testPkt.py
 On the BMODEL window you can see display of bus fields. You can look at the NPL program for this example ``` @ $NPL_EXAMPLES/bus/npl/bus.npl ```
 
 
-## Next Example 
+## Next Tutorial 
 
 Congratulations !!
 You have experienced how ``` bus ``` construct work. You can now moveon to next example [Data Type and Parser](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Bus/Data-Types-Parser)
