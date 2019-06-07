@@ -65,7 +65,7 @@ IP packet with options.
 
 ````
 
-On the BMODEL window you will see prints that display parsed packets from NPL prgram. 
+On the BMODEL window you will see prints that display parsed packets from NPL program. 
 
 ## Next Tutorial 
 
