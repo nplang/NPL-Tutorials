@@ -52,23 +52,25 @@ npl@npl-VirtualBox:~/ncsc-1.3.3rc3/examples/npl_tidbits/constructs/bus$
 ````
 #### NPL Build Enivronment
 Steps to be followed
- - ```sudo bash```
+ ```
+ 
+ sudo bash
    Password is “npl”
- - ```cd ~/ncsc-1.3.3rc3```
- - ```‘source ./bin/setup.sh’```
-   This setup  script will setup all required environmental variables
-
+ cd ~/ncsc-1.3.3rc3
+ source ./bin/setup.sh
+ 
+ ```
 Once the environment is ready, follow the below steps to build and run the NPL examples.
 
-```setenv NPL_EXAMPLES /home/npl/ncsc-1.3.3rc3/examples/npl_tidbits/<construct_name>```
+```
 
-```cd $NPL_EXAMPLES/<construct_name>``` 
+setenv NPL_EXAMPLES /home/npl/ncsc-1.3.3rc3/examples/npl_tidbits/<construct_name>
+cd $NPL_EXAMPLES/<construct_name> 
+make fe_nplsim
+make nplsim_comp
+make nplsim_run
 
-```make fe_nplsim```
-
-```make nplsim_comp```
-
-```make nplsim_run```
+```
 
 ```nplsim_run``` will open couple of xterm windows. ``` BMODEL``` and ```BMCLI```. BMODEL is a behavior simulated model and BMCLI is a "bheavior model CLI" which helps to populate table entries for verification. 
 
