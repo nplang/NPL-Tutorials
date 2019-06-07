@@ -67,7 +67,13 @@ IP packet with options.
 
 On the BMODEL window you will see prints that display parsed packets from NPL program. 
 
-You can look at the complete NPL program for this example @ $NPL_EXAMPLES/data_types_and_parser/npl/data_types_and_parser.npl
+You can experience complete NPL program for this example which was located at below location
+
+````
+
+$NPL_EXAMPLES/data_types_and_parser/npl/data_types_and_parser.npl
+
+````
 
 ## Next Tutorial 
 
