@@ -1,4 +1,4 @@
-# Funciton Construct
+# Function Construct
 
 Function Construct enables NPL programmer to implement relative simple fixed decision processing logic. 
 Supports actions and configuration without using match action tables. Functions can be nested within other functions
