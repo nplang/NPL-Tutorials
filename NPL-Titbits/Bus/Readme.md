@@ -1,6 +1,6 @@
-# Logical Bus Constructs
+# Logical Bus Construct
 
-Logical bus constructs are used to define collection of fields (variables).
+Logical bus construct is used to define collection of fields (variables).
 
 ## Bus Definition
 
@@ -14,3 +14,32 @@ The ````bus```` construct is used to declare a logical bus by instantiating a bu
 ### Bus Example 
 
 We have created an example that defines a bus, assigns values to the fields in bus in one function, and displays them in another function.
+
+To execute this example, follow below steps
+
+1. Make sure [build environment](https://github.com/nplang/NPL-Tutorials#npl-build-enivronment) was properly setup as described earlier
+2. Once the environmental variables were setup execute below commands. 
+````
+
+export NPL_EXAMPLES=/home/npl/ncsc-1.3.3rc3/examples/npl_tidbits/constructs
+cd $NPL_EXAMPLES/bus 
+make fe_nplsim
+make nplsim_comp
+make nplsim_run
+
+````
+
+Now you will see two xterm windows one with name BMODEL and another with BMCLI. You can now inject packet using below command  from original console widow where you compiled the NPL code. 
+
+````
+python bm_tests/corp_net/testPkt.py
+
+````
+
+On the BMODEL window you can see display of bus fields. You can look at the NPL program for this example ``` @ $NPL_EXAMPLES/bus/npl/bus.npl ```
+
+
+## Next Example 
+
+Congratulations !!
+You have experienced how ``` bus ``` construct work. You can now moveon to next example [Data Type and Parser](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Bus/Data-Types-Parser)
