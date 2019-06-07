@@ -29,7 +29,7 @@ make nplsim_run
 
 ````
 
-Now you will see two xterm windows one with name BMODEL and another with BMCLI. You can now inject packet using below command  from original console widow where you compiled the NPL code. 
+Now you will see two xterm windows one with name ```BMODEL``` and another with ```BMCLI```. You can now inject packet using below command  from original console widow where you compiled the NPL code. 
 
 ````
 python bm_tests/corp_net/testPkt.py
@@ -42,4 +42,4 @@ On the BMODEL window you can see display of bus fields. You can look at the NPL 
 ## Next Tutorial 
 
 Congratulations !!
-You have experienced how ``` bus ``` construct work. You can now moveon to next example [Data Type and Parser](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Bus/Data-Types-Parser)
+You have experienced how ``` bus ``` construct work. You can now move on to next example [Data Type and Parser](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Bus/Data-Types-Parser)
