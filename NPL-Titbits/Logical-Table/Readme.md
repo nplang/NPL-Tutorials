@@ -70,4 +70,4 @@ $NPL_EXAMPLES/editor/logical_table/npl/logical_tbl.npl
 ## Next Tutorial 
 
 Congratulations !!
-You have experienced how ```Logical Table``` construct work. You can now move on to next example [Logical Table](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Packet-Count)
+You have experienced how ```Logical Table``` construct work. You can now move on to next example [Packet Count](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Packet-Count)
