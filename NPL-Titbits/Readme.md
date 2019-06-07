@@ -6,7 +6,7 @@ Each construct example is designed to be as simple as possible to focus on the s
 
 ## NPL Constructs
 - [Logical Bus](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Bus)
-- [Data Types and Parser](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Bus/Data-Types-Parser)
+- [Data Types and Parser](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Data-Types-Parser)
 - [Editor](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Editor)
 - [function](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Bus/Function)
 - [Logical Register](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Register)
