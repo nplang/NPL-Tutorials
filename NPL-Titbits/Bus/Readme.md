@@ -42,4 +42,4 @@ On the BMODEL window you can see display of bus fields. You can look at the NPL 
 ## Next Tutorial 
 
 Congratulations !!
-You have experienced how ``` bus ``` construct work. You can now move on to next example [Data Type and Parser](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Bus/Data-Types-Parser)
+You have experienced how ``` bus ``` construct work. You can now move on to next example [Data Type and Parser](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Data-Types-Parser)
