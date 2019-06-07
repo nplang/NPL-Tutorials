@@ -1,9 +1,12 @@
 # Function Construct
 
-Function Construct enables NPL programmer to implement relative simple fixed decision processing logic. 
-Supports actions and configuration without using match action tables. Functions can be nested within other functions
-Inputs of a Funciton can be Global Bus, Packet Data Headers, Logical Registers. And the outout will be Bus field assignments.
-A function can be associated with multiple buses and logic or arithmetic operations to  provide complex functionality
+Functions are used in NPL, to describe generic packet processing, to process results of parser, logical tables, special_function and other constructs. Functions are imperative constructs, which can do data transformation and support application modularity. Multiple other NPL constructs can be invoked inside functions.
+
+Function allow conditional statements, assignment statements and complex operations for data transformation of the logical buses. Functions can access and update logical bus data. Functions can be nested within other functions.
+
+Here are a few scenarios where function could be used. Functions can be used to implement flexible decision logic. For example, decode lookup results to determine whether a packet is unicast or multicast.  Function can be used to extract packet data. Function can be used to invoke logical table lookups, special functions.
+
+Function can also be used to specify application modularity. For such usage, function may have logical table lookups, strength resolve, special function calls, dynamic table calls etc. It is suggested to maintain separate NPL functions for modularity and packet processing.
 
 
 ### Function Example 
