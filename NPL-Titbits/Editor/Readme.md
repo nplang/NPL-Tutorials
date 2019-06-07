@@ -3,9 +3,9 @@
 Editor constructs are defined to
  - Add a new header using ```add_header``` construct
  - Delete a header from the packet using ```delete_header ``` construct
- - Modify header fields using ``` replace_header_field ```
- - Create Checksum using ``` create_checksum ```
- - Update packet Length using ``` update_packet_length ```
+ - Modify header fields using ``` replace_header_field ``` construct
+ - Create Checksum using ``` create_checksum ``` construct
+ - Update packet Length using ``` update_packet_length ``` construct
 
 
 ## Editor Example 
