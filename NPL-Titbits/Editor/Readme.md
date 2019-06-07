@@ -58,6 +58,14 @@ Egress Packet : Received packet is single inner tagged, tpid is 0x9100
 ````
 On the BMODEL window you will see prints that display ingress and egress packets based on editor function changes in  NPL program.
 
+You can experience complete NPL program for this example which was located at below location
+
+````
+
+$NPL_EXAMPLES/editor/editor_l2_tag/npl/editor_l2_tag.npl
+
+````
+
 ## Next Tutorial 
 
 Congratulations !!
