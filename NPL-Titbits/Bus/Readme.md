@@ -36,8 +36,15 @@ python bm_tests/corp_net/testPkt.py
 
 ````
 
-On the BMODEL window you can see display of bus fields. You can look at the NPL program for this example ``` @ $NPL_EXAMPLES/bus/npl/bus.npl ```
+On the BMODEL window you can see display of bus fields.
 
+You can experience complete NPL program for this example which was located at below location
+
+````
+
+$NPL_EXAMPLES/bus/npl/bus.npl
+
+````
 
 ## Next Tutorial 
 
