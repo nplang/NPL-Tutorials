@@ -64,7 +64,7 @@ Once the environment is ready, follow the below steps to build and run the NPL e
 
 ```
 
-setenv NPL_EXAMPLES /home/npl/ncsc-1.3.3rc3/examples/npl_tidbits/constructs
+export NPL_EXAMPLES=/home/npl/ncsc-1.3.3rc3/examples/npl_tidbits/constructs
 cd $NPL_EXAMPLES/<construct_name> 
 make fe_nplsim
 make nplsim_comp
