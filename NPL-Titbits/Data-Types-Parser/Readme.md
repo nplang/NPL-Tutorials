@@ -58,4 +58,4 @@ On the BMODEL window you will see prints that display parsed packets from NPL pr
 ## Next Tutorial 
 
 Congratulations !!
-You have experienced how to use ``` Data Types & Parser ``` construct in NPL Language. You can now moveon to next example [Editor Construct](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Bus/Editor)
+You have experienced how to use ``` Data Types & Parser ``` construct in NPL Language. You can now move on to next example [Editor Construct](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Bus/Editor)
