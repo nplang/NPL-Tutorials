@@ -161,4 +161,4 @@ $NPL_EXAMPLES/strength/strength_vid/npl/strength_vid.npl
 
 Congratulations !!
 
-You have experienced how ```Strength Resolution``` construct work. You can now move on to next example [Editor](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits/Editor)
+You have experienced how ```Strength Resolution``` construct work. You can now move on to next example [Editor Construct](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits/Editor)
