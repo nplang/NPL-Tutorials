@@ -10,7 +10,7 @@ Editor constructs are defined to
 
 ## Editor Example 
 
-We have created an couple examples to illustrate how to use NPL's 'editor' constructs and provides sandbox for experiments.
+We have created couple examples to illustrate how to use NPL's 'editor' constructs and provides sandbox for experiments.
 
 ### Example 1 (L2 Tag Manipulation)
 This example shows how to parse the incoming packet and edit Layer-2 headers. This NPL Program 
