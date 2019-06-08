@@ -121,4 +121,5 @@ $NPL_EXAMPLES/editor/editor_vxlan/npl/editor_vxlan.npl
 ## Next Tutorial 
 
 Congratulations !!
-You have experienced how ```Editor``` construct work. You can now move on to next example [Function](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Function)
+
+You have experienced how ```Editor``` construct work. You can now move on to next example [Packet Count](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits/Packet-Count)
