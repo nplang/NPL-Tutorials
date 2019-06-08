@@ -1,6 +1,6 @@
 # Special Function Construct
 
-The Special Function construct is used to define the interface to a target architecture IP block. The internal functionality of the IP block is not specified in the NPL. The interface definition of the IP block must be provided by target vendor using template methods. The NPL writer calls the IP block in the program by using the defined template methods and using appropriate arguments. The ```special_function``` is an extensible construct where target vendor can add custom methods.
+The Special Function construct is used to define an interface to a target architecture IP block. The internal functionality of the IP block is not specified in the NPL. The interface definition of the IP block must be provided by target vendor using template methods. The NPL writer calls the IP block in the program by using the defined template methods and using appropriate arguments. The ```special_function``` is an extensible construct where target vendor can add custom methods.
 
 
 ## Special Function Example 
@@ -12,8 +12,8 @@ To execute this example, follow below steps
 2. Once the environmental variables were setup execute below commands. 
 ````
 
-export NPL_EXAMPLES=/home/npl/ncsc-1.3.3rc3/examples/npl_tidbits/constructs
-cd $NPL_EXAMPLES/packet_trace
+export NPL_EXAMPLES=/home/npl/ncsc-1.3.3rc4/examples/npl_tidbits/constructs
+cd $NPL_EXAMPLES/special_function
 make fe_nplsim
 make nplsim_comp
 make nplsim_run
