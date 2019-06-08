@@ -71,4 +71,4 @@ $NPL_EXAMPLES/editor/logical_table/npl/logical_tbl.npl
 
 Congratulations !!
 
-You have experienced how ```Logical Table``` construct work. You can now move on to next example [Special Function](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Special-Function)
+You have experienced how ```Logical Table``` construct work. You can now move on to next example [Special Function](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits/Special-Function)
