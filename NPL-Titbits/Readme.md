@@ -15,6 +15,6 @@ Each construct example is designed to be as simple as possible to focus on the s
 - [Packet Drop](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Packet-Drop)
 - [Packet Trace](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Packet-Trace)
 - [Parser](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Parser)
-- [Special Function](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Special-Funciton)
+- [Special Function](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Special-Function)
 - [Strength](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Strength)
 
