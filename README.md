@@ -5,7 +5,7 @@
 Welcome to NPL Hands-On tutorial. 
 To help you better understand NPL language and its powerful constructs we have developed NPL Tutorials. These tutorials are catogerized into two sets. 
 
-### [NPL Titbits](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits)
+### [NPL Tidbits](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits)
    These are simple and comprehensive examples to understand constructs in NPL language.
 ### [Basic Switch Forwarding](https://github.com/nplang/NPL-Example-Applications) 
    These are switch forwarding examples to make you experience a very simple Layer2 and Layer3 flows.
