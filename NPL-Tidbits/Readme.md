@@ -10,7 +10,7 @@ Each construct example is designed to be as simple as possible to focus on  spec
 - [Function](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits/Function)
 - [Logical Register](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits/Logical-Register)
 - [Logical Table](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits/Logical-Table)
-- [Special Function](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits/Special-Function)
+- [Special Function](https://github.com/nplang/NPL-Tutorials/tree/master/NPL-Tidbits/Special_Function)
 - [Strength](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits/Strength)
 - [Editor](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits/Editor)
 - [Packet Count](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits/Packet-Count)
