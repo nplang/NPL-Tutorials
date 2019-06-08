@@ -93,4 +93,4 @@ $NPL_EXAMPLES/editor/logical_register/reg_tpid/npl/reg_tpid.npl
 
 Congratulations !!
 
-You have experienced how ```Logical Register``` construct work. You can now move on to next example [Logical Table](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits/Logical-Table)
+You have experienced how ```Logical Register``` construct work. You can now move on to next example [Logical Table](https://github.com/nplang/NPL-Tutorials/tree/master/NPL-Tidbits/Logical-Table)
