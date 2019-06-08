@@ -4,7 +4,7 @@ Packet Drop Construct helps NPL program to implement packet Drop mechanism.
 
 ## Packet Drop Example 
 
-We have implemented a simple 'packet_drop' program which validates mac-address. The program checks if incoming packet's source-mac-address (or) destination-mac-address are zero. If one of the values is zero then packet will be dropped.
+We have implemented a simple ```packet_drop``` program which validates mac-address. This program checks if incoming packet's source-mac-address (or) destination-mac-address are zero. If one of the values is zero then packet will be dropped.
 
 
 To execute this example, follow below steps
@@ -13,7 +13,7 @@ To execute this example, follow below steps
 2. Once the environmental variables were setup execute below commands. 
 ````
 
-export NPL_EXAMPLES=/home/npl/ncsc-1.3.3rc3/examples/npl_tidbits/constructs
+export NPL_EXAMPLES=/home/npl/ncsc-1.3.3rc4/examples/npl_tidbits/constructs
 cd $NPL_EXAMPLES/packet_drop
 make fe_nplsim
 make nplsim_comp
