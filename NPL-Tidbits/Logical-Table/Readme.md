@@ -1,6 +1,6 @@
 # Logical Table Construct
 
-The logical table constructs are used to define a match action table with keys, fields, key_construct, fields_assign, table type minsize and maxsize. Logical tables also have a built-in lookup() method. It allows user to define a data structure which control-plane or data-plane can modify. User can specify key and policy fields to be stored in the logical_table. User can also specify key construction mechanisms using logical bus fields. Finally logical_table allows user to specify fields_assign method to handle fields. 
+The logical table constructs are used to define a match action table with keys, fields, key_construct, fields_assign, table type minsize and maxsize. Logical tables also have a built-in lookup() method. It allows NPL Programmer to define a data structure which control-plane or data-plane can modify. NPL Programmer can specify key and policy fields to be stored in the logical_table. NPL Programmer can also specify key construction mechanisms using logical bus fields. Finally logical_table allows NPL Programmer to specify fields_assign method to handle fields. 
 
 ## Logical Table Example 
 
@@ -14,7 +14,7 @@ To execute this example, follow below steps
 2. Once the environmental variables were setup execute below commands. 
 ````
 
-export NPL_EXAMPLES=/home/npl/ncsc-1.3.3rc3/examples/npl_tidbits/constructs
+export NPL_EXAMPLES=/home/npl/ncsc-1.3.3rc4/examples/npl_tidbits/constructs
 cd $NPL_EXAMPLES/logical_table
 make fe_nplsim
 make nplsim_comp
@@ -37,7 +37,7 @@ Commnand to be used :(bmcli.0> lt vlan_table insert _INDEX=3 vlan_membership_bit
 ````
 You can either use above individual commands directly to get an experience of LT commands OR we have added these CLI commands in a text file which you can invoke using below command from BMCLI window
 ````
-rcload /home/npl/ncsc-1.3.3rc3/examples/npl_tidbits/constructs/logical_table/bm_tests/corp_net/configuration.txt
+rcload /home/npl/ncsc-1.3.3rc4/examples/npl_tidbits/constructs/logical_table/bm_tests/corp_net/configuration.txt
 
 ````
 
