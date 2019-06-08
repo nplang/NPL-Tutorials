@@ -56,4 +56,7 @@ $NPL_EXAMPLES/editor/packet_trace/npl/packet_trace.npl
 ## Next Tutorial 
 
 Congratulations !!
-You have experienced how ```packet_trace``` construct work. You can now move on to next example [Special Function](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Special-Function)
+
+You have just finished NPL Basic Examples. 
+
+Please proceed to [Packet Forwarding Examples](https://github.com/nplang/NPL-Example-Applications)
