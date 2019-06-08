@@ -5,7 +5,7 @@
 Welcome to NPL Hands-On tutorial. 
 To help you better understand NPL language and its powerful constructs we have developed NPL Tutorials. These tutorials are catogerized into two sets. 
 
-### [NPL Tidbits](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits)
+### [NPL Tidbits](https://github.com/nplang/NPL-Tutorials/tree/master/NPL-Tidbits)
    These are simple and comprehensive examples to understand constructs in NPL language.
 ### [Basic Switch Forwarding](https://github.com/nplang/NPL-Example-Applications) 
    These are switch forwarding examples to make you experience a very simple Layer-2 and Layer-3 flows.
@@ -35,7 +35,7 @@ The major directories include:
       This folder contains example programs written in NPL language
 
 ``` 
-npl@npl-VirtualBox:~/ncsc-1.3.3rc3/examples/npl_tidbits/constructs/bus$ tree
+npl@npl-VirtualBox:~/ncsc-1.3.3rc4/examples/npl_tidbits/constructs/bus$ tree
 .
 ├── bm_tests
 │   ├── corp_net
