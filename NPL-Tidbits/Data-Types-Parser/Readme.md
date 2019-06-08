@@ -38,7 +38,7 @@ To execute this example, follow below steps
 2. Once the environmental variables were setup execute below commands. 
 ````
 
-export NPL_EXAMPLES=/home/npl/ncsc-1.3.3rc3/examples/npl_tidbits/constructs
+export NPL_EXAMPLES=/home/npl/ncsc-1.3.3rc4/examples/npl_tidbits/constructs
 cd $NPL_EXAMPLES/data_types_and_parser 
 make fe_nplsim
 make nplsim_comp
