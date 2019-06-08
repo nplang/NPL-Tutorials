@@ -26,7 +26,7 @@ To execute this example, follow below steps
 2. Once the environmental variables were setup execute below commands. 
 ````
 
-export NPL_EXAMPLES=/home/npl/ncsc-1.3.3rc3/examples/npl_tidbits/constructs
+export NPL_EXAMPLES=/home/npl/ncsc-1.3.3rc4/examples/npl_tidbits/constructs
 cd $NPL_EXAMPLES/editor/editor_l2_tag 
 make fe_nplsim
 make nplsim_comp
@@ -34,7 +34,7 @@ make nplsim_run
 
 ````
 
-Now you will see two xterm windows one with name ```BMODEL``` and another with ```BMCLI```. You can now inject packet using below command  from original console widow where you compiled the NPL code. 
+Now you will see two xterm windows one with name ```BMODEL``` and another with ```BMCLI```. You can now inject packets using below command from original console widow where you compiled NPL Program. 
 
 ````
 python bm_tests/corp_net/testPkt.py
@@ -78,7 +78,7 @@ To execute this example, follow below steps
 2. Once the environmental variables were setup execute below commands. 
 ````
 
-export NPL_EXAMPLES=/home/npl/ncsc-1.3.3rc3/examples/npl_tidbits/constructs
+export NPL_EXAMPLES=/home/npl/ncsc-1.3.3rc4/examples/npl_tidbits/constructs
 cd $NPL_EXAMPLES/editor/editor_vxlan
 make fe_nplsim
 make nplsim_comp
@@ -86,7 +86,7 @@ make nplsim_run
 
 ````
 
-Now you will see two xterm windows one with name ```BMODEL``` and another with ```BMCLI```. You can now inject packet using below command  from original console widow where you compiled the NPL code. 
+Now you will see two xterm windows one with name ```BMODEL``` and another with ```BMCLI```. You can now inject packets using below command  from original console widow where you compiled the NPL code. 
 
 ````
 python bm_tests/corp_net/testPkt.py
@@ -99,13 +99,14 @@ The above testPkt.py sends the following packets to port-0 of the Behavioral Mod
 Test - 1:
 Ingress Packet : Send a non-VXLAN packet from port-0
 Egress Packet : Received packet is a VXLAN packet, VXLAN header is added
+
 Test - 2:
 Ingress Packet : Sends a VXLAN packet from port-0
 Egress Packet : Received packet is a non-VXLAN packet, VXLAN header is removed
 
 ````
-On the BMODEL window you will see prints that display ingress and egress packets based on editor function changes in  NPL program.
 
+On the BMODEL window you will see prints that display ingress and egress VxLAN packets based on editor function changes in  NPL program.
 
 
 You can experience complete NPL programs for this examples located at below location
