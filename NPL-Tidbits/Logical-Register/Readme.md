@@ -6,7 +6,7 @@ The Logical Register construct is used to specify a one deep, multi-field entity
 
 ## Logical Register Example 
 
-We have created an couple examples to illustrate how to use NPL's ```logical_register``` construct.
+We have created couple of examples to illustrate how to use NPL ```logical_register``` construct.
 
 ### Example 1 (Ingress Packet Counter)
 This example implements a simple ingress packet counter. A 32-bit packet counter is implemented as ```logical_register``` which is incremented for each ingress packet.
@@ -17,7 +17,7 @@ To execute this example, follow below steps
 2. Once the environmental variables were setup execute below commands. 
 ````
 
-export NPL_EXAMPLES=/home/npl/ncsc-1.3.3rc3/examples/npl_tidbits/constructs
+export NPL_EXAMPLES=/home/npl/ncsc-1.3.3rc4/examples/npl_tidbits/constructs
 cd $NPL_EXAMPLES/logical_register/reg_pkt_count
 make fe_nplsim
 make nplsim_comp
@@ -34,14 +34,14 @@ python bm_tests/corp_net/testPkt.py
 
 The above testPkt.py injects 5 packets to port-0 of the Behavioral Model
 
-On the BMODEL window you will see prints ```` ing_pkt_count```` getting incremented for each packet thats been sent. 
+On the BMODEL window you will see prints ```` ing_pkt_counter```` getting incremented for each packet thats been sent. 
 
 
 ### Example 2  (TPID for parsing)
 
 This NPL program implements simple configurable 'tag protocol identifier' (TPID) for parsing VLAN tagged packets. It supports four TPIDs. Multiple TPIDs can be selected for identifying tagged status of incoming packet. 
 
-It implements this using registers:
+Implemenred using register names as:
 tpid_enable: 4-bit value. Indicates valid tpid values.
 tpid_values: 4 * 16-bit TPID values. (ex: 0x8100)
 
@@ -51,7 +51,7 @@ To execute this example, follow below steps
 2. Once the environmental variables were setup execute below commands. 
 ````
 
-export NPL_EXAMPLES=/home/npl/ncsc-1.3.3rc3/examples/npl_tidbits/constructs
+export NPL_EXAMPLES=/home/npl/ncsc-1.3.3rc4/examples/npl_tidbits/constructs
 cd $NPL_EXAMPLES/logical_register/reg_tpid
 make fe_nplsim
 make nplsim_comp
