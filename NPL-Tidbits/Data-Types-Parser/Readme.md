@@ -78,4 +78,5 @@ $NPL_EXAMPLES/data_types_and_parser/npl/data_types_and_parser.npl
 ## Next Tutorial 
 
 Congratulations !!
-You have experienced how to use ``` Data Types & Parser ``` construct in NPL Language. You can now move on to next example [Editor Construct](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Editor)
+
+You have experienced how to use ``` Data Types & Parser ``` construct in NPL Language. You can now move on to next example [Function Construct](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits/Function)
