@@ -33,15 +33,14 @@ python bm_tests/corp_net/testPkt.py
 The above testPkt.py sends the following packets to port-0 of the Behavioral Model
 
 ````
-
 Test - 1 :
-Ingress Packet : Send a normal packet With out ip options from port-0 to BM
-Observations on BMODEL Window : Receive a packet from port-1
-
-Test - 2 :
 Ingress Packet : Send a packet with ip options from port-0 to BM
 Observations on BMODEL Window : BM window prints out packet_trace() construct is calling
 Receive a packet from port-1
+
+Test - 2 :
+Ingress Packet : Send a normal packet With out ip options from port-0 to BM
+Observations on BMODEL Window : Receive a packet from port-1
 
 ````
 
