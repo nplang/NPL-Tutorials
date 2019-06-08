@@ -13,6 +13,6 @@ Each construct example is designed to be as simple as possible to focus on  spec
 - [Special Function](https://github.com/nplang/NPL-Tutorials/tree/master/NPL-Tidbits/Special_Function)
 - [Strength Resolution](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits/Strength)
 - [Editor Construct](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits/Editor)
-- [Packet Count](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits/Packet-Count)
+- [Packet Count](https://github.com/nplang/NPL-Tutorials/tree/master/NPL-Tidbits/Packet_Count)
 - [Packet Drop](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits/Packet-Drop)
 - [Packet Trace](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits/Packet-Trace)
