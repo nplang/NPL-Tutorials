@@ -4,7 +4,7 @@ Packet Counter Construct helps NPL program to implement packet Counting mechanis
 
 ## Packet Count Example 
 
-A simple example wad implemented for 'multicast packet counter'. The counter is incremented for every incoming packet with 40th bit set in destination mac-address.
+We have devenloped a simple example to count multicast packets. A counter will be incremented for every incoming packet with 40th bit set in destination mac-address.
 
 To execute this example, follow below steps
 
@@ -12,7 +12,7 @@ To execute this example, follow below steps
 2. Once the environmental variables were setup execute below commands. 
 ````
 
-export NPL_EXAMPLES=/home/npl/ncsc-1.3.3rc3/examples/npl_tidbits/constructs
+export NPL_EXAMPLES=/home/npl/ncsc-1.3.3rc4/examples/npl_tidbits/constructs
 cd $NPL_EXAMPLES/packet_count
 make fe_nplsim
 make nplsim_comp
@@ -22,7 +22,7 @@ make nplsim_run
 
 Now you will see two xterm windows one with name ```BMODEL``` and another with ```BMCLI```. 
 
-You can now inject packet using below command  from original console widow where you compiled the NPL code. 
+You can now inject packet using below command from original console widow where you compiled the NPL code. 
 
 ````
 python bm_tests/corp_net/testPkt.py
@@ -34,11 +34,11 @@ The above testPkt.py sends the following packets to port-0 of the Behavioral Mod
 ````
 Test - 1 :
 Ingress Packet : Send a UC packet through port-0 of BM.
-Observations on BMODEL window: BM window will not prints out “Calling packet_count”
+Observations on BMODEL window: BM window will not print out “Calling packet_count”
 
 Test - 2 :
 Input : Send a MC packet through port-0 of BM.
-Observations on BMODEL window:: BM window prints out “Calling packet_count”
+Observations on BMODEL window:: BM window print out “Calling packet_count”
 
 ````
 
