@@ -61,4 +61,5 @@ $NPL_EXAMPLES/editor/function/npl/fun_ip_hash_calc.npl
 ## Next Tutorial 
 
 Congratulations !!
-You have experienced how ```Function``` construct work. You can now move on to next example [Logical Register](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Titbits/Logical-Register)
+
+You have experienced how ```Function``` construct work. You can now move on to next example [Logical Register](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits/Logical-Register)
