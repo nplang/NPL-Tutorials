@@ -52,4 +52,4 @@ $NPL_EXAMPLES/editor/special_function/npl/sf_timestamping.npl
 
 Congratulations !!
 
-You have experienced how ```special_function``` construct work. You can now move on to next example [Strength Construct](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits/Strength)
+You have experienced how ```special_function``` construct work. You can now move on to next example [Strength Resolution Construct](https://github.com/nplang/NPL-Tutorials/blob/master/NPL-Tidbits/Strength)
