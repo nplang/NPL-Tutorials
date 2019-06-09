@@ -48,6 +48,6 @@ $NPL_EXAMPLES/bus/npl/bus.npl
 
 ## Next Tutorial 
 
-Congratulations !!
+Congratulations :+1:
 
 You have experienced how ``` Logical bus ``` construct work. You can now move on to next example [Data Type and Parser](https://github.com/nplang/NPL-Tutorials/tree/master/NPL-Tidbits/Data-Types-Parser)
