@@ -52,10 +52,8 @@ $NPL_EXAMPLES/editor/packet_trace/npl/packet_trace.npl
 
 ````
 
-## Next Tutorial 
+## Congratulations :+1: :+1:
 
-Congratulations :+1:
-
-You have just finished NPL Basic Examples. 
+## You have just finished NPL Basic Examples. 
 
 Please proceed to [Packet Forwarding Examples](https://github.com/nplang/NPL-Example-Applications)
