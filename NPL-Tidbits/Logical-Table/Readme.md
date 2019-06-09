@@ -69,6 +69,6 @@ $NPL_EXAMPLES/editor/logical_table/npl/logical_tbl.npl
 
 ## Next Tutorial 
 
-Congratulations !!
+Congratulations :+1:
 
 You have experienced how ```Logical Table``` construct work. You can now move on to next example [Special Function](https://github.com/nplang/NPL-Tutorials/tree/master/NPL-Tidbits/Special_Function)
