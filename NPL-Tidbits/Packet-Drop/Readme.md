@@ -57,6 +57,6 @@ $NPL_EXAMPLES/editor/packet_drop/npl/packet_drop.npl
 
 ## Next Tutorial 
 
-Congratulations !!
+Congratulations :+1:
 
 You have experienced how ```packet_drop``` construct work. You can now move on to next example [Packet Trace](https://github.com/nplang/NPL-Tutorials/tree/master/NPL-Tidbits/Packet-Trace)
