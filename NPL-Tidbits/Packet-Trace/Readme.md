@@ -54,7 +54,7 @@ $NPL_EXAMPLES/editor/packet_trace/npl/packet_trace.npl
 
 ## Next Tutorial 
 
-Congratulations !!
+Congratulations :+1:
 
 You have just finished NPL Basic Examples. 
 
