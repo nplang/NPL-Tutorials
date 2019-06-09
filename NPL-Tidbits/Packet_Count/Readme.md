@@ -52,6 +52,6 @@ $NPL_EXAMPLES/editor/packet_count/npl/packet_count.npl
 
 ## Next Tutorial 
 
-Congratulations !!
+Congratulations :+1:
 
 You have experienced how ```Packet Count``` construct work. You can now move on to next example [Packet Drop](https://github.com/nplang/NPL-Tutorials/tree/master/NPL-Tidbits/Packet-Drop)
