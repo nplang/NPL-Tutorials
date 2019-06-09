@@ -16,7 +16,7 @@ To accelerate your experiernce on Hands-on tutorial, we have prepared complete t
 
 Steps to use  Virtual Machiene. 
 - Downlaod [VirtualBox](http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html)
-- Download [Virtial Appliance File]()
+- Download [Virtial Appliance File](https://broadcom.box.com/v/NCS-Community-June-2019)
 - Import virtual Appliance File using VritualBox Manager
 - Power on  appliance after importing OVA file. Appliance is built using Ubuntu Linux 16.04
 - You will be prompted for a password which is "npl"
