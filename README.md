@@ -16,7 +16,7 @@ To accelerate your experiernce on Hands-on tutorial, we have prepared complete t
 
 Steps to use  Virtual Machiene. 
 - Downlaod [VirtualBox](http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html)
-- Import virtual appliance File VritualBox Manager [ova]link
+- Import virtual appliance File VritualBox Manager [ova](https://drive.google.com/open?id=1S-wDqebwAqmSYg-voK2mR5RXv57VRRxE)
 - Power on  appliance after importing OVA file. Appliance is built using Ubuntu Linux 16.04
 - You will be prompted for a password which is "npl"
 
