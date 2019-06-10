@@ -52,7 +52,7 @@ npl@npl-VirtualBox:~/ncsc-1.3.3rc4/examples/npl_tidbits/constructs/bus$ tree
 
 4 directories, 7 files
 ````
-#### NPL Build Enivronment
+#### NPL Build Environment
 Steps to be followed
  ```
  
