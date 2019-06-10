@@ -12,7 +12,7 @@ To help you better understand NPL language and its powerful constructs we have d
    
 ### How to get a Working Environment
 
-To accelerate your experiernce on Hands-on tutorial, we have prepared complete test environment in a virtual machine. 
+To accelerate your experience on Hands-on tutorial, we have prepared complete test environment in a virtual machine. 
 
 Steps to use  Virtual Machiene. 
 - Download [VirtualBox](http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html)
