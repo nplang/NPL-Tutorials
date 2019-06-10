@@ -15,7 +15,7 @@ To help you better understand NPL language and its powerful constructs we have d
 To accelerate your experiernce on Hands-on tutorial, we have prepared complete test environment in a virtual machine. 
 
 Steps to use  Virtual Machiene. 
-- Downlaod [VirtualBox](http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html)
+- Download [VirtualBox](http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html)
 - Download [Virtual Appliance File](https://broadcom.box.com/v/NCS-Community-June-2019)
 - Import virtual Appliance File using VritualBox Manager
 - Power on  appliance after importing OVA file. Appliance is built using Ubuntu Linux 16.04
