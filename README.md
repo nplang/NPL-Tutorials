@@ -3,7 +3,7 @@
 
 ## Introduction
 Welcome to NPL Hands-On tutorial. 
-To help you better understand NPL language and its powerful constructs we have developed NPL Tutorials. These tutorials are catogerized into two sets. 
+To help you better understand NPL language and its powerful constructs we have developed NPL Tutorials. These tutorials are categorized into two sets. 
 
 ### [NPL Tidbits](https://github.com/nplang/NPL-Tutorials/tree/master/NPL-Tidbits)
    These are simple and comprehensive examples to understand constructs in NPL language.
@@ -16,12 +16,12 @@ To accelerate your experiernce on Hands-on tutorial, we have prepared complete t
 
 Steps to use  Virtual Machiene. 
 - Downlaod [VirtualBox](http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html)
-- Download [Virtial Appliance File](https://broadcom.box.com/v/NCS-Community-June-2019)
+- Download [Virtual Appliance File](https://broadcom.box.com/v/NCS-Community-June-2019)
 - Import virtual Appliance File using VritualBox Manager
 - Power on  appliance after importing OVA file. Appliance is built using Ubuntu Linux 16.04
 - You will be prompted for a password which is "npl"
 
-### Quick Introduciton to Working Environment
+### Quick Introduction to Working Environment
 
 #### Directory Structure
 
